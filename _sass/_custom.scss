@@ -1,0 +1,44 @@
+a {
+  color: #6aa89b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darken( #6aa89b, 10% )
+}
+
+header p {
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+  color: #7a7a7a;
+}
+
+.logo {
+  max-height: 70px;
+  margin-bottom: 30px;
+}
+
+.logo-footer {
+  max-height: 40px;
+  margin-bottom: 5px;
+}
+
+p img {
+  margin: 30px auto 30px auto;
+}
+
+.author {
+  max-height: 30px;
+  border-radius: 50%;
+  vertical-align: middle;
+  display: inline;
+  margin: -3px 5px 0 0;
+}
+
+.dot-divider {
+  padding: 0 5px;
+}
+
+.thin-border-top {
+  border-top: thin solid #f3f3f3;
+}
