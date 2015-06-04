@@ -1,0 +1,20 @@
+---
+layout: home
+permalink: /archive/
+---
+
+<div class="archive">
+
+  {% for category in site.categories %}
+    <!-- A category is an array with the title as its first object, and all posts
+    in that category as its second object -->
+    <h2>{{ category[0] }}</h2>
+
+    <ul>
+      {% for post in category[1] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+
+</div>
