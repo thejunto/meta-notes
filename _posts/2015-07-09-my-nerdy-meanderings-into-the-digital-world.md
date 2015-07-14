@@ -54,5 +54,5 @@ End Chapter 2.
 
 Pursuing these obscure but very real interests has been too much fun. I love learning how the world around me works, and I’m only more intrigued and fascinated by how we have been able to create and understand so much. I can’t help but be exited about where following these questions will take me next and what new things I might find out about. 
 
- At the same time, getting a peak behind the curtain is only making me realize how fragile our systems really are - I mean,  really! Thinnish underwater cables vs. the forces of the ocean? We all know who’s going to win that eventually. Just ask Poseidon.  Furthermore, it’s begun to make me realize that we’ve decided to build our world in this way but that we can just as easily ask how else might we create these connections were it not through light, cables and products? 
+ At the same time, getting a peak behind the curtain is only making me realize how fragile our systems really are - I mean,  really! Thinnish underwater cables vs. the forces of the ocean? We all know who’s going to win that eventually. Just ask Poseidon.  Furthermore, it’s begun to make me realize that we’ve decided to build our world in this way but that we can just as easily ask how else might we create these connections were it not through light, cables and products?
 
