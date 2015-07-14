@@ -1,6 +1,6 @@
 ---
 layout:    post
-title:     My Nerdy Meandering into the Inner Workings of the Digital World and Ocassional references to Nutella. A snapshot. 
+title:     My Nerdy Meandering into the Inner Workings of the Digital World. A snapshot. 
 date:      '2015-07-09T13:13:00-06:00'
 summary:   "I’ve been going down this eye-opening and fascinating path of how computers work and what the internet is. I realized that as much as I’m immersed in it I know very very little about how it works "
 category:  learning
@@ -9,6 +9,8 @@ image: 		digital-meanderings.jpg
 ---
 
 ![Digital Meandering](/images/digital-meanderings.jpg)
+
+
 
 I’ve been going down this eye-opening and fascinating path of how computers work and what the internet is. I realized that as much as I’m immersed in it I know very little about how it works. 
 
