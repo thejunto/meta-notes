@@ -8,15 +8,12 @@ author:    isa
 image: 		digital-meandering.png
 ---
 
-<<<<<<< Updated upstream
-![Digital Meandering](/images/digital-meandering.jpg)
-=======
 ![Digital Meandering](/images/digital-meanderings.jpg)
 
 <br>
 
 _I’ve been going down this eye-opening and fascinating path of how computers work and what the internet is. I realized that as much as I’m immersed in it I know very little about how it works._
->>>>>>> Stashed changes
+
 
 ---
 
@@ -65,15 +62,15 @@ _End Chapter 1._
 
 I’m leisurely strolling through Sophos, one of my favorite bookshops in Guatemala City, when I stumble upon a book called “Tubes". A book about a journey to the center of the internet. Jules Verne meets...head-scratch? As soon as I read the introduction I’m hooked, I can’t believe that somebody has actually taken the time to write a book about how the cables/tubes of the internet are connected and find out where “the internet lives”. It seems too bizarre, wonderful and actually like something I should have always wondered about but never have. It stays in the back of my mind for a year before I finally decide that I have to read it. 
 
-<<<<<<< Updated upstream
+
 Now I’m surfing the internet, staring at maps of underwater cables and researching the location of companies with abnormal amounts of security and bunker like buildings. It makes me nervous I will seem suspicious to the great gods of data. I mean what 27-year-old woman is sketching maps of the internet’s most important buildings in her spare time? Well, to be honest, I’m pretty paranoid about big data and who’s tracking our every movement already, so that might not be the best example. But still. I’m suddenly immersed in a world of network engineers and find myself pining to attend the next NANOG conference so I can get a feel for these things. (NANOG= North American Network Operators Group).  
-=======
+
 <br>
 
 Now I’m surfing the internet, staring at maps of underwater cables and researching the location of companies with abnormal amounts of security and bunker like buildings. It makes me nervous I will seem suspicious to the great gods of data. I mean what woman in her 20's is sketching maps of the internet’s most important buildings in her spare time? Well, to be honest, I’m pretty paranoid about big data and who’s tracking our every movement already, so that might not be the best example. But still. I’m suddenly immersed in a world of network engineers and find myself pining to attend the next NANOG conference so I can get a feel for these things. (NANOG= North American Network Operators Group). 
 
 <br> 
->>>>>>> Stashed changes
+
 
 So reading Andrew Blum has only piqued my curiosity further, now I’m wondering about how light works, what fiber optic cables are and do, and if I could put together a circuit board on my own. My fascination for it has become such that I’ve finally done something that I’ve always wanted to do: I’ve eaten an entire bottle of Nutella by myself in one sitting. Just kidding, although I would love to do that. I’ve taken apart an old computer and put it back together and made it work. (Pride = through the roof). 
 
