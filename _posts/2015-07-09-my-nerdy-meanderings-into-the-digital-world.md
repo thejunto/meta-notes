@@ -5,10 +5,10 @@ date:      '2015-07-09T13:13:00-06:00'
 summary:   "I’ve been going down this eye-opening and fascinating path of how computers work and what the internet is. I realized that as much as I’m immersed in it I know very very little about how it works "
 category:  learning
 author:    isa	 
-image: 		digital-meandering.png
+image: 		digital-meanderings.jpg
 ---
 
-![Digital Meandering](/images/digital-meandering.jpg)
+![Digital Meandering](/images/digital-meanderings.jpg)
 
 I’ve been going down this eye-opening and fascinating path of how computers work and what the internet is. I realized that as much as I’m immersed in it I know very little about how it works. 
 
@@ -46,7 +46,7 @@ Now I’m surfing the internet, staring at maps of underwater cables and researc
 
 So reading Andrew Blum has only piqued my curiosity further, now I’m wondering about how light works, what fiber optic cables are and do, and if I could put together a circuit board on my own. My fascination for it has become such that I’ve finally done something that I’ve always wanted to do: I’ve eaten an entire bottle of Nutella by myself in one sitting. Just kidding, although I would love to do that. I’ve taken apart an old computer and put it back together and made it work. (Pride = through the roof). 
 
-![Taking apart an iMac](/images/imac1.jpg)
+![Taking apart an iMac](/images/imac.jpg)
 
 End Chapter 2. 
 
