@@ -54,7 +54,7 @@ So reading Andrew Blum has only piqued my curiosity further, now I’m wondering
 
 <br>
 
-### Begin Chapter 3- Stumbling upon Fragility and the Fountain of Everlasting Questions
+### Begin Chapter 3: Stumbling upon Fragility and the Fountain of Everlasting Questions
 
 Pursuing these obscure but very real interests has been too much fun. I love learning how the world around me works, and I’m only more intrigued and fascinated by how we have been able to create and understand so much. I can’t help but be exited about where following these questions will take me next and what new things I might find out about. 
 
