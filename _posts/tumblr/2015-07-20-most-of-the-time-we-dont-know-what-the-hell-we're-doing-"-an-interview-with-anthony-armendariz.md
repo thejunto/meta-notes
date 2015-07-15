@@ -26,6 +26,8 @@ But how exactly did they accomplished this? This is what they said:
 4. The more you can support each other, the more you build the indidivual characteristics of a strong team
 5. Learn, practice, and improve
 
+
+
 ##... and a culture where everyone haves fun 
 
 Asked about what is fun, Anthony answered with one word: collaboration. "The collaboration factor is the main thing we don’t want to lose and we want to promote", –he said. "Celebrate all your wins together". 
@@ -34,6 +36,8 @@ Also, they began taking small steps to improve their project management workflow
 
  
 Oh, and they don't work on Fridays. 
+
+![funsize](/images/funsize.png)
 
 
 ##Delivering Trust
